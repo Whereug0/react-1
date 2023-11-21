@@ -1,0 +1,14 @@
+.input {
+    border-radius: 10px;
+    padding: 5px;
+    margin-right: 20px;
+}
+
+.inputBox {
+    margin-top: 150px;
+}
+
+.btn {
+    border-radius: 10px;
+    padding: 3px 10px;
+}
